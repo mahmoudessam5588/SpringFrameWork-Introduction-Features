@@ -1,0 +1,1 @@
+![BEAN LIFE CYCLE](https://i.stack.imgur.com/kpcdR.png)
